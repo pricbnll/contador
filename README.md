@@ -1,2 +1,2 @@
 # contador
-Exerc[icio da escola Eliti - contador
+Exercício da escola Eliti - contador
